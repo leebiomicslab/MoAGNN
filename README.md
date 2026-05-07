@@ -16,7 +16,7 @@ conda env create -f environment.yml
 conda activate moagnn
 ```
 
-```
+
 ## Citation
 
 If you use MoAGNN in your work, please cite:
